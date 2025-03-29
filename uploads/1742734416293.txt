@@ -1,0 +1,32 @@
+	`these are file in routes in my project attendance.js auth.js classes.js config.js grades.js students.js payments.js  teachers.js upload.js 
+users.js
+
+
+
+
+
+
+ 
+when signup as a teacher the showing Registration successful! Please wait for admin approval.
+
+when signup as a student the showing Registration successful! Please wait for admin approval.
+
+
+when signup as an Admin then also  showing Registration successful! Please wait for admin approval.
+
+when teacher signup then admin approval is required when admin give approval to teacher then the teacher can longin can operate thier 
+dashboard.
+
+when student signup then teacher approval is required when teacher gives approval to student then the student can longin can operate thier 
+dashboard.
+
+make controllers and proper working dashboard of teacher, student and admin
+
+
+Payment Management, Reports, Security, Settings  make these functinal School Management System - Admin
+
+
+
+
+
+THIS WEBAPP DESIGNED BY KANWALRAJRAHI (9999690161) MAKE THIS CLICKABLE THEN REACH https://www.linkedin.com/in/kanwalrajrahi
